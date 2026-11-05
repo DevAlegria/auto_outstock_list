@@ -1,0 +1,18 @@
+{
+  "name": "auto_outstock_list",
+  "version": "1.0.0",
+  "description": "SIFACPOS out-of-stock automation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.2",
+    "googleapis": "^181.0.0",
+    "mssql": "^12.7.2"
+  }
+}
